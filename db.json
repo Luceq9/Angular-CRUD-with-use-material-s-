@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Vegetables",
+      "freshness": "Fresh",
+      "price": 10,
+      "comment": "Mango is Mango",
+      "datePicker": "2022-05-31T22:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
